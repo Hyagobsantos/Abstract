@@ -35,6 +35,6 @@ class DelRey extends Automovel {
 $carro = new DelRey();
 
 $carro ->acelerar(200);
-
+$carro->franar(50);
 
 ?>
